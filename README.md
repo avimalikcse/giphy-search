@@ -7,8 +7,9 @@ paginating your results in any form you’d like
 through individual GIF renditions. The renditions in this view should be fully animated
 • Provide a way for the user to perform a keyword search against the API
 ### Screenshot
+<img width="1512" alt="Screenshot 2022-06-22 at 2 18 22 PM" src="https://user-images.githubusercontent.com/51997285/174989874-2efba96f-45d1-462b-ab55-538fb0476269.png">
 
-![screenshot](./00-screenshot.png "screenshot")
+
 
 ### Key Technologies
 
